@@ -1,0 +1,14 @@
+.WeatherForecast {
+    text-align: center;
+}
+
+.WeatherForecast .daily-low {
+    opacity: 0.6;
+    margin-left: 5px;
+
+}
+
+.WeatherForecast .col svg {  
+    height: 40px;
+    width: 40px;
+}

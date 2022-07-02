@@ -27,7 +27,7 @@
   
 }
 
-.Weather img, .Weather svg{
+.Weather svg{
     display: inline-block;
     height: 60px;
     margin-top: unset;
